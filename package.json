@@ -51,7 +51,7 @@
     "googleapis": "^40.0.0",
     "graphql": "^14.4.2",
     "jwks-rsa": "^1.6.0",
-    "koa": "2.7.0",
+    "koa": "2.15.4",
     "koa-bodyparser": "^4.2.1",
     "koa-graphql": "^0.8.0",
     "koa-jwt": "^3.6.0",
